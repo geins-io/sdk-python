@@ -132,7 +132,7 @@ conf = openapi_client.Configuration(
     ):
         """Constructor
         """
-        self._base_path = "https://mgmtapi.carismar.io" if host is None else host
+        self._base_path = "https://mgmtapi.geins.io" if host is None else host
         """Default Base url
         """
         self.server_index = 0 if server_index is None and host is None else server_index
@@ -442,7 +442,7 @@ conf = openapi_client.Configuration(
         """
         return [
             {
-                'url': "https://mgmtapi.carismar.io",
+                'url': "https://mgmtapi.geins.io",
                 'description': "No description provided",
             }
         ]

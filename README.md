@@ -166,10 +166,10 @@ from openapi_client.model.brand_models_brand_query import BrandModelsBrandQuery
 from openapi_client.model.brand_models_read_brand import BrandModelsReadBrand
 from openapi_client.model.brand_models_write_brand import BrandModelsWriteBrand
 from openapi_client.model.envelope_brand_models_read_brand import EnvelopeBrandModelsReadBrand
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -214,7 +214,7 @@ with openapi_client.ApiClient(configuration) as api_client:
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------

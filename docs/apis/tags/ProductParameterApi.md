@@ -1,7 +1,7 @@
 <a name="__pageTop"></a>
 # openapi_client.apis.tags.product_parameter_api.ProductParameterApi
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -34,10 +34,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.product_parameter_models_write_product_parameter_value_batch import ProductParameterModelsWriteProductParameterValueBatch
 from openapi_client.model.envelope import Envelope
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -189,10 +189,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.product_parameter_models_write_product_parameter_value_batch import ProductParameterModelsWriteProductParameterValueBatch
 from openapi_client.model.envelope import Envelope
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -344,10 +344,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.product_parameter_models_write_product_parameter_value import ProductParameterModelsWriteProductParameterValue
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_value import EnvelopeProductParameterModelsReadProductParameterValue
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -495,10 +495,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter import EnvelopeProductParameterModelsReadProductParameter
 from openapi_client.model.product_parameter_models_write_product_parameter import ProductParameterModelsWriteProductParameter
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -647,10 +647,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_group import EnvelopeProductParameterModelsReadProductParameterGroup
 from openapi_client.model.product_parameter_models_write_product_parameter_group import ProductParameterModelsWriteProductParameterGroup
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -799,10 +799,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.product_parameter_models_write_product_parameter_predefined_value import ProductParameterModelsWriteProductParameterPredefinedValue
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_predefined_value import EnvelopeProductParameterModelsReadProductParameterPredefinedValue
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -949,10 +949,10 @@ import openapi_client
 from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter import EnvelopeProductParameterModelsReadProductParameter
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1072,10 +1072,10 @@ import openapi_client
 from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_group import EnvelopeProductParameterModelsReadProductParameterGroup
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1195,10 +1195,10 @@ import openapi_client
 from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_value import EnvelopeProductParameterModelsReadProductParameterValue
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1318,10 +1318,10 @@ import openapi_client
 from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_value import EnvelopeProductParameterModelsReadProductParameterValue
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1480,10 +1480,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter import EnvelopeProductParameterModelsReadProductParameter
 from openapi_client.model.product_parameter_models_write_product_parameter import ProductParameterModelsWriteProductParameter
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1653,10 +1653,10 @@ from openapi_client.apis.tags import product_parameter_api
 from openapi_client.model.envelope_product_parameter_models_read_product_parameter_group import EnvelopeProductParameterModelsReadProductParameterGroup
 from openapi_client.model.product_parameter_models_write_product_parameter_group import ProductParameterModelsWriteProductParameterGroup
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters

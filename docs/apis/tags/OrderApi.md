@@ -1,7 +1,7 @@
 <a name="__pageTop"></a>
 # openapi_client.apis.tags.order_api.OrderApi
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -39,10 +39,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.api_order_order_comment import APIOrderOrderComment
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -207,10 +207,10 @@ from openapi_client.apis.tags import order_api
 from openapi_client.model.envelope_int import EnvelopeInt
 from openapi_client.model.order_models_order import OrderModelsOrder
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -473,10 +473,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.envelope_int import EnvelopeInt
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -569,10 +569,10 @@ Deletes or deactivates an order
 import openapi_client
 from openapi_client.apis.tags import order_api
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -716,10 +716,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_capture import OrderCapture
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -839,10 +839,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_models_order import OrderModelsOrder
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1008,10 +1008,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_models_order_status import OrderModelsOrderStatus
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1129,10 +1129,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_refund import OrderRefund
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1252,10 +1252,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_models_order_update import OrderModelsOrderUpdate
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1420,10 +1420,10 @@ from openapi_client.apis.tags import order_api
 from openapi_client.model.order_models_order_query import OrderModelsOrderQuery
 from openapi_client.model.order_models_order import OrderModelsOrder
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1596,10 +1596,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_processed_capture import OrderProcessedCapture
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1744,10 +1744,10 @@ Set Payment Detail as payed
 import openapi_client
 from openapi_client.apis.tags import order_api
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -1871,10 +1871,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_processed_refund import OrderProcessedRefund
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -2019,10 +2019,10 @@ Update order status
 import openapi_client
 from openapi_client.apis.tags import order_api
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -2173,10 +2173,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.api_order_transaction_data import APIOrderTransactionData
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -2339,10 +2339,10 @@ import openapi_client
 from openapi_client.apis.tags import order_api
 from openapi_client.model.order_validate_order_creation_request import OrderValidateOrderCreationRequest
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters

@@ -1,7 +1,7 @@
 <a name="__pageTop"></a>
 # openapi_client.apis.tags.page_area_api.PageAreaApi
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -27,10 +27,10 @@ from openapi_client.apis.tags import page_area_api
 from openapi_client.model.envelope_page_area_models_read_page_area import EnvelopePageAreaModelsReadPageArea
 from openapi_client.model.page_area_models_write_page_area import PageAreaModelsWritePageArea
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -205,10 +205,10 @@ from openapi_client.apis.tags import page_area_api
 from openapi_client.model.page_area_models_write_page_area_family import PageAreaModelsWritePageAreaFamily
 from openapi_client.model.envelope_page_area_models_read_page_area_family import EnvelopePageAreaModelsReadPageAreaFamily
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -391,10 +391,10 @@ import openapi_client
 from openapi_client.apis.tags import page_area_api
 from openapi_client.model.page_area_models_read_page_area import PageAreaModelsReadPageArea
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -514,10 +514,10 @@ import openapi_client
 from openapi_client.apis.tags import page_area_api
 from openapi_client.model.page_area_models_read_page_area_family import PageAreaModelsReadPageAreaFamily
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -637,10 +637,10 @@ import openapi_client
 from openapi_client.apis.tags import page_area_api
 from openapi_client.model.page_area_models_read_page_area_family import PageAreaModelsReadPageAreaFamily
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters

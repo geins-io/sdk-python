@@ -1,7 +1,7 @@
 <a name="__pageTop"></a>
 # openapi_client.apis.tags.supplier_api.SupplierApi
 
-All URIs are relative to *https://mgmtapi.carismar.io*
+All URIs are relative to *https://mgmtapi.geins.io*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -26,10 +26,10 @@ from openapi_client.apis.tags import supplier_api
 from openapi_client.model.envelope_supplier_models_read_supplier import EnvelopeSupplierModelsReadSupplier
 from openapi_client.model.supplier_models_write_supplier import SupplierModelsWriteSupplier
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -178,10 +178,10 @@ import openapi_client
 from openapi_client.apis.tags import supplier_api
 from openapi_client.model.envelope_supplier_models_read_supplier import EnvelopeSupplierModelsReadSupplier
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -302,10 +302,10 @@ from openapi_client.apis.tags import supplier_api
 from openapi_client.model.supplier_models_read_supplier import SupplierModelsReadSupplier
 from openapi_client.model.supplier_models_supplier_query import SupplierModelsSupplierQuery
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
@@ -474,10 +474,10 @@ from openapi_client.apis.tags import supplier_api
 from openapi_client.model.envelope_supplier_models_read_supplier import EnvelopeSupplierModelsReadSupplier
 from openapi_client.model.supplier_models_write_supplier import SupplierModelsWriteSupplier
 from pprint import pprint
-# Defining the host is optional and defaults to https://mgmtapi.carismar.io
+# Defining the host is optional and defaults to https://mgmtapi.geins.io
 # See configuration.py for a list of all supported configuration parameters.
 configuration = openapi_client.Configuration(
-    host = "https://mgmtapi.carismar.io"
+    host = "https://mgmtapi.geins.io"
 )
 
 # The client must configure the authentication and authorization parameters
