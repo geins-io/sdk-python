@@ -1,0 +1,34 @@
+# openapi_client.model.product_parameter_models_read_product_parameter_predefined_value.ProductParameterModelsReadProductParameterPredefinedValue
+
+A predefined value for a product parameter.
+
+## Model Type Info
+Input Type | Accessed Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+dict, frozendict.frozendict,  | frozendict.frozendict,  | A predefined value for a product parameter. | 
+
+### Dictionary Keys
+Key | Input Type | Accessed Type | Description | Notes
+------------ | ------------- | ------------- | ------------- | -------------
+**ParameterId** | decimal.Decimal, int,  | decimal.Decimal,  | The unique identifier for the parameter. | [optional] value must be a 32 bit integer
+**PredefinedValueId** | decimal.Decimal, int,  | decimal.Decimal,  | The predefined value id of the parameter. | [optional] value must be a 32 bit integer
+**Name** | str,  | str,  | The non-localized predefined value name of the parameter. | [optional] 
+**[LocalizedNames](#LocalizedNames)** | list, tuple,  | tuple,  | The localized predefined value names of the parameter. | [optional] 
+**any_string_name** | dict, frozendict.frozendict, str, date, datetime, int, float, bool, decimal.Decimal, None, list, tuple, bytes, io.FileIO, io.BufferedReader | frozendict.frozendict, str, BoolClass, decimal.Decimal, NoneClass, tuple, bytes, FileIO | any string name can be used but the value must be the correct type | [optional]
+
+# LocalizedNames
+
+The localized predefined value names of the parameter.
+
+## Model Type Info
+Input Type | Accessed Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+list, tuple,  | tuple,  | The localized predefined value names of the parameter. | 
+
+### Tuple Items
+Class Name | Input Type | Accessed Type | Description | Notes
+------------- | ------------- | ------------- | ------------- | -------------
+[**SharedModelsLocalizableContent**](SharedModelsLocalizableContent.md) | [**SharedModelsLocalizableContent**](SharedModelsLocalizableContent.md) | [**SharedModelsLocalizableContent**](SharedModelsLocalizableContent.md) |  | 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
